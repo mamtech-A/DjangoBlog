@@ -74,6 +74,10 @@ nav button{
 .article_detail .article img{
     max-width:100%;
 }
+.article_detail .article div{
+    display:flex;
+    justify-content:center;
+}
 .article_detail .article h2{
     text-align:center;
     font-size:2em;
